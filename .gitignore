@@ -1,0 +1,4 @@
+# tools, IDEs, build folders
+/vendor
+/node_modules
+composer.phar
