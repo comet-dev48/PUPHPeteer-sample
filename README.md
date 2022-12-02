@@ -8,6 +8,7 @@ composer require nesk/puphpeteer
 npm install @nesk/puphpeteer
 
 2.configure php.ini:
+
 extension=sockets or extension=D:/xampp8.0/php/ext/php_sockets.dll
 
 reference url :
